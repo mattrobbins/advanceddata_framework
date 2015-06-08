@@ -1,0 +1,20 @@
+2015-06-08 16:29:48,093 INFO  [Log] ************************************************************************************** 
+2015-06-08 16:29:48,093 INFO  [Log] ************************************************************************************** 
+2015-06-08 16:29:48,093 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$               Login_01        $$$$$$$$$$$$$$$$$$$$$$ 
+2015-06-08 16:29:48,093 INFO  [Log] ************************************************************************************** 
+2015-06-08 16:29:48,093 INFO  [Log] ************************************************************************************** 
+2015-06-08 16:29:54,271 INFO  [Log] Firefox Browser Started 
+2015-06-08 16:29:54,490 INFO  [Log] Navigating tohttp://www.store.demoqa.com 
+2015-06-08 16:29:58,066 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2015-06-08 16:29:58,379 INFO  [Log] Wait for 5 seconds 
+2015-06-08 16:30:03,428 INFO  [Log] Entering the text in txtbx_UserName 
+2015-06-08 16:30:04,570 INFO  [Log] Entering the text in txtbx_Password 
+2015-06-08 16:30:05,929 INFO  [Log] Clicking on Webelement btn_LogIn 
+2015-06-08 16:30:06,207 INFO  [Log] Wait for 5 seconds 
+2015-06-08 16:30:11,268 INFO  [Log] Clicking on Webelement btn_LogOut 
+2015-06-08 16:30:11,535 ERROR [Log] Closing the brower 
+2015-06-08 16:30:11,926 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXX             -E---N---D-          XXXXXXXXXXXXXXXXXXXXXXXX 
+2015-06-08 16:30:11,926 INFO  [Log] X 
+2015-06-08 16:30:11,926 INFO  [Log] X 
+2015-06-08 16:30:11,926 INFO  [Log] X 
+2015-06-08 16:30:11,926 INFO  [Log] X 
